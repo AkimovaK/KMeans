@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="server">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../Program Files/SceneBuilder/runtime/lib/server" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
